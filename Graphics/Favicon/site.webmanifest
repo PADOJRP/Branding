@@ -1,0 +1,19 @@
+{
+	"name": "Pennsylvania Department of Justice Roleplay",
+	"short_name": "PADOJRP",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#022F44",
+	"background_color": "#022F44",
+	"display": "standalone"
+}
